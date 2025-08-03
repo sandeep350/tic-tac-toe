@@ -94,6 +94,4 @@ _____|_____|_____
 
 This project is open-source and free to use for learning and personal projects.
 
----
 
-Let me know if you'd like a markdown-formatted version or more advanced sections like contributing guidelines.
