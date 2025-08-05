@@ -1,14 +1,12 @@
 #include <iostream>
 #include <ctime>
 using namespace std;
-
 // Function declarations
 void drawBoard(char *spaces);
 void playerMove(char *spaces, char player);
 void computerMove(char *spaces, char computer);
 bool checkWinner(char *spaces, char player, char computer);
 bool checkTie(char *spaces);
-
 int main() {
     // Initialize the board with empty spaces
     char spaces[9] = {' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '};
@@ -129,7 +127,6 @@ bool checkWinner(char *spaces, char player, char computer) {
     }
     return false; // No winner found
 }
-
 // Check if the game is a tie
 bool checkTie(char *spaces) {
     // If any space is empty, it's not a tie
