@@ -21,7 +21,7 @@ int main() {
         playerMove(spaces, player);
         drawBoard(spaces);
 
-        // Check if the player won
+        //To Check if the player won
         if (checkWinner(spaces, player, computer)) {
             running = false;
             break;
