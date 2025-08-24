@@ -8,7 +8,6 @@ Here’s a simple, clear README file you can use for your Tic-Tac-Toe C++ projec
 
 This project is a simple console-based **Tic-Tac-Toe** game written in **C++**. The player competes against a basic computer opponent that places its moves randomly.
 
----
 
 ## How to Play
 
@@ -20,7 +19,6 @@ This project is a simple console-based **Tic-Tac-Toe** game written in **C++**. 
 * First to get 3 in a row (horizontally, vertically, or diagonally) wins.
 * If the board fills up without a winner, the game ends in a tie.
 
----
 
 ## Features
 
