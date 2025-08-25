@@ -77,16 +77,13 @@ _____|_____|_____
      |     |     
      |     |     
 ...
-```
 
----
 
 ## Notes
 
 * The computer uses a basic strategy (random moves). It does **not** use any advanced AI techniques.
 * For reproducible computer behavior, you can replace `srand(time(0));` with a fixed seed.
 
----
 
 ## License
 
