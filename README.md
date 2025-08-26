@@ -1,6 +1,5 @@
 Here’s a simple, clear README file you can use for your Tic-Tac-Toe C++ project:
 
----
 
 # Tic-Tac-Toe (C++ Console Game)
 
